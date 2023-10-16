@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/D3-project/static/css/main.535766dd.css",
+    "main.js": "/D3-project/static/js/main.3554076c.js",
+    "index.html": "/D3-project/index.html",
+    "main.535766dd.css.map": "/D3-project/static/css/main.535766dd.css.map",
+    "main.3554076c.js.map": "/D3-project/static/js/main.3554076c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.535766dd.css",
+    "static/js/main.3554076c.js"
+  ]
+}
